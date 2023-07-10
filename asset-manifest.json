@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BookFriends/static/css/main.5ae95956.css",
+    "main.js": "/BookFriends/static/js/main.a5be16d1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/BookFriends/static/js/787.28cb0dcd.chunk.js",
+    "static/media/SEGA.woff": "/BookFriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/BookFriends/index.html",
+    "main.5ae95956.css.map": "/BookFriends/static/css/main.5ae95956.css.map",
+    "main.a5be16d1.js.map": "/BookFriends/static/js/main.a5be16d1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/BookFriends/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae95956.css",
+    "static/js/main.a5be16d1.js"
+  ]
+}
